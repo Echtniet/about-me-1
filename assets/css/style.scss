@@ -9,23 +9,21 @@ body {
   background: gray url(https://subtlepatterns.com/patterns/geometry2.png) repeat
     0 0;
   width: 100%;
-  margin: 0;
-  text-align: center;
   height: 300px;
   padding-top: 120px;
   box-sizing: border-box;
-  -webkit-animation: slide 20s linear infinite;
+  animation: background-animation 20s linear infinite;
 }
 
-h1 {
-  color: #c05c7e;
-}
+// h1 {
+//   color: #c05c7e;
+// }
 
 img {
   border-radius: 50%;
 }
 
-@-webkit-keyframes slide {
+@keyframes background-animation {
   from {
     background-position: 0 0;
   }

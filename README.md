@@ -19,9 +19,7 @@ This repo will be utilized to share my personal details that everyone ought to k
 
 1. The first thing you need in order to publish with GitHub Pages is, you may have guessed it, a GitHub repo. So create a [GitHub](https://github.com/) repo on and make sure to initialize it with a README.
 
-2. Next, refer to the awesome [Mastering Markdown Article](https://guides.github.com/features/mastering-markdown/) to create a markdown you are proud of of. The last step is to go to
-
-[GitHub](https://github.com/)
+2. Next, refer to the awesome [Mastering Markdown Article](https://guides.github.com/features/mastering-markdown/) to create a markdown you are proud of of.
 
 3. The final step is to publish your site. The easiest way to do so is to go into the repository settings and enable GitHub pages, which will generate a link to your very own GitHub Page with a default github.io domain. Just copy and paste the link on a new window on a browser of your choice. I suggest you use Google Chrome because of the awesome developer tools, which will come in handy on your journey to becoming a developer.
    [Download Google Chrome](https://www.google.com/chrome/)
@@ -40,5 +38,5 @@ This repo will be utilized to share my personal details that everyone ought to k
 
 ## Author
 
-Aawaj Raj Joshi
+Aawaj Raj Joshi  
 Applied Computer Science Grad @ [NWMSU](https://www.nwmissouri.edu/)

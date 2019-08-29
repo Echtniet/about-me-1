@@ -1,0 +1,13 @@
+Aawaj (pronounced as AH-wahzh)
+
+I am currently pursuing a Master's degree in Applied Computer Science. I will be graduating next summer. I did my undergraduate in GIS (Geographic Information Systems). I had to build a ton of Python scripts during my undergrad to automate a lot of redundant ArcMap tasks. I also love data mining with Python. So basically, I love Python. 
+
+At the moment, I'm very intrigued by React and am in the process of learning how to use the library.  I'm also working on an Angular app with a few other graduate students and also actively trying to publish some iOS apps on the app store. 
+
+At the moment, I have no clue about what I want to do. But I wouldn't would love to work in the data science field. I also wouldn't mind working as an iOS developer. 
+
+Links to my LinkedIn and GitHub: 
+
+https://www.linkedin.com/in/aawaj-joshi-720a5b139/ 
+
+https://github.com/aawajjoshi?tab=repositories

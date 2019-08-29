@@ -40,3 +40,8 @@ This repo will be utilized to share my personal details that everyone ought to k
 
 Aawaj Raj Joshi  
 Applied Computer Science Grad @ [NWMSU](https://www.nwmissouri.edu/)
+
+<br />
+
+*My girfriend and I riding Hagrid's bike*  
+![Hogwarts](/images/hogwarts.jpg)
